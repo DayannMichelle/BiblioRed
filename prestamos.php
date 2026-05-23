@@ -1,4 +1,4 @@
-<?php
+<?php  //HU 03 Prestamos// 
 session_start();
 require 'database.php';
 
