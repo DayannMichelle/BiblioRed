@@ -1,4 +1,4 @@
-<?php
+<?php // HU-04 Inicio de sesión //
 
   session_start();
 

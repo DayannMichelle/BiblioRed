@@ -1,4 +1,4 @@
-<?php
+<?php // HU-01 Registro de libros  //
 require 'database.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {

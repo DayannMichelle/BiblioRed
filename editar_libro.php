@@ -1,4 +1,4 @@
-<?php
+<?php  //  HU-05 Actualización de libros //
 require 'database.php';
 
 if (isset($_GET['id'])) {

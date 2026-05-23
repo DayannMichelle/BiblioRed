@@ -1,4 +1,4 @@
-<?php
+<?php // HU-02 Búsqueda implementada //
 require 'database.php';
 
 $buscar = $_POST['buscar'] ?? '';

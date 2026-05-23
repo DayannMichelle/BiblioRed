@@ -1,4 +1,4 @@
-<?php
+<?php  // HU-03 Gestión de préstamos //
 session_start();
 require 'database.php';
 
