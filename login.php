@@ -1,4 +1,4 @@
-<?php
+<?php //Login HU - 04 //
 
   session_start();
 
