@@ -43,7 +43,7 @@ if (isset($_POST['devolucion'])) {
     if ($stmt_devolucion->execute()) {
         $message = 'El libro ha sido devuelto con éxito.';
     } else {
-        $message = 'Hubo un problema al procesar la devolución.';
+        $message = 'Hubo un problema al procesar la devolución, por favor contactese con el administrador.';
     }
 }
 
